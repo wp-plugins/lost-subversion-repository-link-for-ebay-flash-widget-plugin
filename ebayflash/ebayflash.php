@@ -1,4 +1,5 @@
 <?php
+
 /*
 Plugin Name: eBay Flash Shortcode
 Plugin URI: http://www.rtm.net
@@ -7,6 +8,7 @@ Version: 0.8.0
 Author: RTM
 Author URI: http://www.rtm.net/
 */
+
 /* Shortcode */
 // register eBay Flash shortcode
 add_shortcode('ebayflash', 'ebayflash_shortcode_func');	
