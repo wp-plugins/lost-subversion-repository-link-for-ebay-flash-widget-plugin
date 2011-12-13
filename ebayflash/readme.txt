@@ -1,10 +1,11 @@
 === Plugin Name ===
 Contributors: RTM Communications
+Tags: eBay, Flash, Auction
 Requires at least: 2.7
 Tested up to: 3.3
 Stable tag: 3.3
 
-Embed a beautiful Flash object for eBay auction items using the simple [ebayflash]123456[/ebayflash] shortcode. Voila: a dynamic flash item updated in real-time.
+Embed a beautiful Flash object for eBay auction items using the simple [ebayflash]123456[/ebayflash] shortcode.
 
 == Description ==
 
@@ -46,4 +47,3 @@ Of course not! The flash item will indicate that the item ended as well as the f
 * Internal private beta release
 
 == Upgrade Notice ==
-
